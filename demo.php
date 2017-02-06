@@ -10,3 +10,5 @@ function demo(){
     echo "funfou";
     echo "demo";
 }
+
+$demo = false;
