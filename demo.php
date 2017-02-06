@@ -11,4 +11,3 @@ function demo(){
     echo "demo";
 }
 $result =  false;
-$rocco = 0;
