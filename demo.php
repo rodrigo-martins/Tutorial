@@ -8,4 +8,5 @@
 
 function demo(){
     echo "funfou";
+    echo "demo";
 }
