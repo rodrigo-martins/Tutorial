@@ -7,5 +7,5 @@
  */
 
 function demo(){
-
+    echo "funfou";
 }
