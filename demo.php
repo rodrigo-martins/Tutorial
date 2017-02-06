@@ -10,4 +10,3 @@ function demo(){
     echo "funfou";
     echo "demo";
 }
-$funfou = "abc";
