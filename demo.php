@@ -11,3 +11,4 @@ function demo(){
     echo "demo";
 }
 $result =  false;
+$teste1 = 1;
