@@ -13,6 +13,7 @@ function demo(){
 $result =  false;
 $teste1 = 1;
 $phpstorm = 10;
-$rrr = 8;$bla = "bla";
+$rrr = 8;
+$bla = "bla";
 $b = 23;
 $hiw = 0;
