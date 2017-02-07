@@ -12,3 +12,5 @@ function demo(){
 }
 $result =  false;
 $teste1 = 1;
+$bla = "bla";
+$b = 23;
